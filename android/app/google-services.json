@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "476732253727",
+    "project_id": "uvpixcel",
+    "storage_bucket": "uvpixcel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476732253727:android:62356a69a29edbe739d72a",
+        "android_client_info": {
+          "package_name": "com.sensibleconnect.uvpixcel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhFRa_AKTSnb5Ga8w0XR5bEOjfwjW9CBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
